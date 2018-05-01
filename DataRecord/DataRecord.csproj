@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D7E473A0-099D-43E0-AD8E-DEA1D032CE38}</ProjectGuid>
+    <ProjectGuid>{1B077B9A-C3C0-4BA9-808B-F3E3F613DDAD}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>DataReader</RootNamespace>
-    <AssemblyName>DataReader</AssemblyName>
+    <RootNamespace>DataRecord</RootNamespace>
+    <AssemblyName>DataRecord</AssemblyName>
     <TargetFrameworkVersion>v4.7</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -32,9 +32,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="DBConfig">
-      <HintPath>..\DBConfig\bin\Debug\DBConfig.dll</HintPath>
-    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />

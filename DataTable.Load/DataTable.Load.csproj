@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D7E473A0-099D-43E0-AD8E-DEA1D032CE38}</ProjectGuid>
+    <ProjectGuid>{C79728A8-655E-49F3-A5B9-2F2769B1DE8E}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>DataReader</RootNamespace>
-    <AssemblyName>DataReader</AssemblyName>
+    <RootNamespace>DataTable.Load</RootNamespace>
+    <AssemblyName>DataTable.Load</AssemblyName>
     <TargetFrameworkVersion>v4.7</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D7E473A0-099D-43E0-AD8E-DEA1D032CE38}</ProjectGuid>
+    <ProjectGuid>{D90E130F-3E00-4054-90FA-358C62983F03}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>DataReader</RootNamespace>
-    <AssemblyName>DataReader</AssemblyName>
+    <RootNamespace>DataAdapter.Fill</RootNamespace>
+    <AssemblyName>DataAdapter.Fill</AssemblyName>
     <TargetFrameworkVersion>v4.7</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
